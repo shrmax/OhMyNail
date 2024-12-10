@@ -23,9 +23,4 @@ This is an e-commerce app that helps people to order saloon products and appoint
 - RecyclerView
 - View Binding
 
-## Screenshots
-
-
-
-
 
